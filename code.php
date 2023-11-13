@@ -4,7 +4,7 @@
 include 'vendor/autoload.php';
 
 // Set up the API endpoint URL
-$apiEndpoint = 'https://germinal-flowise.hf.space/api/v1/prediction/8dde8610-3c69-4c19-b531-dac5b63fdb28';
+$apiEndpoint = 'https://germinal-flowise.hf.space/api/v1/prediction/fe4c8a18-af3c-4f81-9af2-575a9ba1cde6';
 
 // Set up the authorization token for the API request
 $authorizationToken = 'FVXruV8Z1cTqSMqqS7n43rcpMKCTMnyN2ZOTtYXW+6w=';
